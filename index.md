@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: "全栈开发之路"
-  text: "...正在开发中"
+  # text: "...正在开发中"
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get Started
+      link: /frontend/browser-cache
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Examples
+      link: /markdown-examples
 
 features:
   - title: Feature A
