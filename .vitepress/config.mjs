@@ -1,7 +1,8 @@
-import { defineConfig } from "vitepress";
+// import { defineConfig } from "vitepress";
+import { withMermaid } from "vitepress-plugin-mermaid";
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default withMermaid({
   title: "全栈开发之路",
   // description: "...正在开发中",
   themeConfig: {
