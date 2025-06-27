@@ -10,7 +10,7 @@ export default withMermaid({
     nav: [
       { text: "Home", link: "/" },
       { text: "Front-End", link: "/frontend/browser-cache" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "English", link: "/english/sujie-spoken-900" },
     ],
 
     sidebar: [
@@ -23,6 +23,10 @@ export default withMermaid({
             link: "/frontend/create-vue3-project-0-to-1",
           },
         ],
+      },
+      {
+        text: "English",
+        items: [{ text: "苏姐英语900句", link: "/english/sujie-spoken-900" }],
       },
       {
         text: "Examples",
