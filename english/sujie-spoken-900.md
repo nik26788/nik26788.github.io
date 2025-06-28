@@ -37,21 +37,21 @@ TODO
 18. 好好考虑一下 Sleep on it
 19. 我不信 I don't buy it
 20. 别废话 Cut the crap
-21. <++>
-22. <++>
-23. <++>
-24. <++>
-25. <++>
-26. <++>
-27. <++>
-28. <++>
-29. <++>
-30. <++>
-31. <++>
-32. <++>
-33. <++>
-34. <++>
-35. <++>
+21. 你真实满嘴跑火车 you are so full of crap
+22. 你惹上麻烦了 you're gonna have a problem
+23. 你 tm 以为你是谁呀 who the hell do you think you are ?
+24. 你很丢人 you're making a fool of youself
+25. 嘴巴放干净一点 watch your mouth.
+26. 我来吧(把事情交给我吧，我来做吧) Leave it to me.
+27. I'm on it
+28. I got it
+29. 我正忙着呢 I'm in the middle of something
+30. 我也想 但是... I wish I could, but(拒绝时使用)
+31. 不容易 很难 It's not picnic
+32. 搞定 Nailed it
+33. 收工 今天就到这吧 Let's Call it a day
+34. 我得挂了 我得走了 I gotta go
+35. 赶紧弄完得了 Let's get this over with
 36. <++>
 37. <++>
 38. <++>
