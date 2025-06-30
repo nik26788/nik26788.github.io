@@ -62,26 +62,26 @@ TODO
 43. 说来话长 (It's a) Long story
 44. 长话短说 Long story short
 45. 我走了 我不干了 I'm out of(outta) here
-46. <++>
-47. <++>
-48. <++>
-49. <++>
-50. <++>
-51. <++>
-52. <++>
-53. <++>
-54. <++>
-55. <++>
-56. <++>
-57. <++>
-58. <++>
-59. <++>
-60. <++>
-61. <++>
-62. <++>
-63. <++>
-64. <++>
-65. <++>
+46. 算上我 Count me in
+47. 我也去 I'm in
+48. 别算上我 Leave me out of it
+49. 包在我身上 Consider it done
+50. 别对自己那么严格 Don't be so hard on yourself
+51. 别太自以为是了 Get over yourself
+52. 别闹了 Knock it off
+53. 我请客 My treat
+54. It's on me
+55. 别客气 当自己家一样 Make yourself at home
+56. 帮帮忙 Make youself useful
+57. 你不是这块料 You're not cut out for it/this. (我不是这块料)I'm not cut out for it/this
+58. 我不打扰你了 I'll be out of your hair
+59. 你忙吧 I'll leave you to it
+60. 我这么和你说 Let me put it this way
+61. 明白我当意思吗？Know what I'm saying?
+62. Got it?
+63. 想吃点东西吗? (You Wanna) grab a bite?
+64. 我有事 I have plans
+65. 你有什么想法? What d'you have in mind?
 66. <++>
 67. <++>
 68. <++>
