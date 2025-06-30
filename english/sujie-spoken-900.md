@@ -47,21 +47,21 @@ TODO
 28. I got it
 29. 我正忙着呢 I'm in the middle of something
 30. 我也想 但是... I wish I could, but(拒绝时使用)
-31. 不容易 很难 It's not picnic
+31. 不容易 很难 It's no picnic
 32. 搞定 Nailed it
 33. 收工 今天就到这吧 Let's Call it a day
 34. 我得挂了 我得走了 I gotta go
 35. 赶紧弄完得了 Let's get this over with
-36. <++>
-37. <++>
-38. <++>
-39. <++>
-40. <++>
-41. <++>
-42. <++>
-43. <++>
-44. <++>
-45. <++>
+36. 赶紧决定 Make up your mind
+37. 没时间了 Time‘s running out
+38. 我也遇到过 (I've) been there
+39. 随便你 请便 Be my guest (客气)
+40. 按你说得来吧 Have it your way
+41. 有空吗 Got a minute?
+42. 现在不太方便 Now's not a good time
+43. 说来话长 (It's a) Long story
+44. 长话短说 Long story short
+45. 我走了 我不干了 I'm out of(outta) here
 46. <++>
 47. <++>
 48. <++>
