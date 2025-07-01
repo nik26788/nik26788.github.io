@@ -22,6 +22,10 @@ export default withMermaid({
             text: "从0到1搭建一个vue3前端项目",
             link: "/frontend/create-vue3-project-0-to-1",
           },
+          {
+            text: "服务端渲染(SSR)",
+            link: "/frontend/server-side-rendering",
+          },
         ],
       },
       {
