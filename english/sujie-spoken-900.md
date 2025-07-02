@@ -82,16 +82,16 @@ TODO
 63. 想吃点东西吗? (You Wanna) grab a bite?
 64. 我有事 I have plans
 65. 你有什么想法? What d'you have in mind?
-66. <++>
-67. <++>
-68. <++>
-69. <++>
-70. <++>
-71. <++>
-72. <++>
-73. <++>
-74. <++>
-75. <++>
+66. 在那里见 I'll meet you there
+67. 很准时 Right on time
+68. 你怎么才来 What took you so long?
+69. 在这吃还是带走 For here or to go?
+70. 两位（餐厅场景） Table for/fer/ two
+71. 这里有人没 Is this seat taken?
+72. 能给我点纸巾吗 Can we have some napkin, please?
+73. 牛排几分熟 How do you like your steak?
+74. 马上就好 Coming right up
+75. 结账 Can I have the check, please? / Check, please
 76. <++>
 77. <++>
 78. <++>
