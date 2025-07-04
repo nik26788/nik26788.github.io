@@ -92,28 +92,28 @@ TODO
 73. 牛排几分熟 How do you like your steak?
 74. 马上就好 Coming right up
 75. 结账 Can I have the check, please? / Check, please
-76. <++>
-77. <++>
-78. <++>
-79. <++>
-80. <++>
-81. <++>
-82. <++>
-83. <++>
-84. <++>
-85. <++>
-86. <++>
-87. <++>
-88. <++>
-89. <++>
-90. <++>
-91. <++>
-92. <++>
-93. <++>
-94. <++>
-95. <++>
-96. <++>
-97. <++>
-98. <++>
-99. <++>
-100. <++>
+76. 我能送你回家吗 Can I give you a ride home?
+77. 系好安全带/准备出发 Buckle up
+78. 我到家了 This is me (用于别人第一次送你回家)
+79. 今天很开心 I have a good time
+80. 下次再约 We should do it again sometime
+81. 我没问题 Works for me
+82. 到时候再说吧(表示拒绝) We'll see
+83. 晚饭吃什么 What's for dinner
+84. 真扫兴 what a bummer!
+85. 她很小气 She's cheap
+86. 装高冷 Playing hard-to-get
+87. 我完全不在意 I couldn't care less
+88. 你在胡说什么啊 Do you hear yourself?
+89. 他帅锅给我 He threw me under the bus
+90. 我们达成共识了 We're on the same page
+91. 该干活了 Let's get down to business
+92. 这就对了 Now you're talking
+93. 继续加油 Keep it up
+94. 你很有天赋 You're a natural / You're gifted
+95. 学着点 Watch and(n) learn
+96. 动动脑子 Use your head
+97. 我想请教你一下 I'd like to pick your brain
+98. 我试试 I'll give it a shot
+99. 不太可能 希望渺茫 It's a long shot
+100. 我说了算 I call the shots
