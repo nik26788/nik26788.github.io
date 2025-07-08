@@ -130,16 +130,16 @@ TODO
 108. 一切尽在掌握之中 Everything's under the control
 109. 别掺和 别插手 Stay out of it
 110. none of your business
-111. <++>
-112. <++>
-113. <++>
-114. <++>
-115. <++>
-116. <++>
-117. <++>
-118. <++>
-119. <++>
-120. <++>
+111. 我来牵头 I'll take the lead
+112. 我搞砸了 I messed up
+113. I screwed up
+114. 你处理好 Fix it
+115. 我想要加薪 I want a raise. (flap t -> d)
+116. 我想要升职 I want a promotion. (flap t -> d)
+117. 听我说完 Hear me out
+118. 是这样的 here's the thing
+119. 我喜欢你 I have a thing for you (have a thing for = like)
+120. 教你两招 Teach you a thing or two
 121. <++>
 122. <++>
 123. <++>
