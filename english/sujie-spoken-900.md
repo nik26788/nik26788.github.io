@@ -140,16 +140,16 @@ TODO
 118. 是这样的 here's the thing
 119. 我喜欢你 I have a thing for you (have a thing for = like)
 120. 教你两招 Teach you a thing or two
-121. <++>
-122. <++>
-123. <++>
-124. <++>
-125. <++>
-126. <++>
-127. <++>
-128. <++>
-129. <++>
-130. <++>
+121. 我说了算 My way or the highway
+122. 我门合不来 We don't get along (flap t -> d)
+123. We don't see eye to eye
+124. 我门合得来 We really hit it off
+125. 我保证 I promise
+126. I give you my word / You have my word
+127. 我遵守诺言 I kept my word
+128. 他是一个信守诺言/言而有信的人 He is a man of his word
+129. 恕我直言 With all due respect
+130. 无意冒犯 No offence
 131. <++>
 132. <++>
 133. <++>
