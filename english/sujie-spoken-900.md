@@ -150,16 +150,16 @@ TODO
 128. 他是一个信守诺言/言而有信的人 He is a man of his word
 129. 恕我直言 With all due respect
 130. 无意冒犯 No offence
-131. <++>
-132. <++>
-133. <++>
-134. <++>
-135. <++>
-136. <++>
-137. <++>
-138. <++>
-139. <++>
-140. <++>
+131. 只是提个醒 Just a heads-up
+132. 不是针对你 Don't take it personally
+133. 别提了 Don't get me started
+134. 他陷害我 He set me up
+135. 晚点回回复你 Let me get back to you
+136. 烦死了 That's annoying
+137. 差不多得了 别想了 Get over it
+138. 我受够了 I'm so sick of this
+139. 你考虑清楚了吗 Have you thought this through
+140. 小场面 Nothing I haven't seen before
 141. <++>
 142. <++>
 143. <++>
