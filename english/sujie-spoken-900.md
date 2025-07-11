@@ -160,16 +160,16 @@ TODO
 138. 我受够了 I'm so sick of this
 139. 你考虑清楚了吗 Have you thought this through
 140. 小场面 Nothing I haven't seen before
-141. <++>
-142. <++>
-143. <++>
-144. <++>
-145. <++>
-146. <++>
-147. <++>
-148. <++>
-149. <++>
-150. <++>
+141. 我恰巧碰到了 ta: I bumped into him/her
+142. 太巧了 What are the odds!
+143. 傻了吧 Joke's on you
+144. 都过去了 Water under the bridge
+145. 我上哪知道去 How should I know?
+146. 有什么大不了的 What's the big deal!
+147. No big deal!
+148. 多大点事 Big deal!
+149. 差一点 So close!
+150. 大差不差 差不多 More or less
 151. <++>
 152. <++>
 153. <++>
