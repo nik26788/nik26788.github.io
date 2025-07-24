@@ -170,16 +170,16 @@ TODO
 148. 多大点事 Big deal!
 149. 差一点 So close!
 150. 大差不差 差不多 More or less
-151. <++>
-152. <++>
-153. <++>
-154. <++>
-155. <++>
-156. <++>
-157. <++>
-158. <++>
-159. <++>
-160. <++>
+151. That's about it
+152. 一模一样 it's like looking in a mirror
+153. 你没有资格对我指手画脚 You're in no position to judge me / make demands
+154. 坚持住 Hang in there
+155. 振作一点 Chin up
+156. 我会补偿给你的 I'll make it up to you
+157. 随便看看 (I'm) just browsing
+158. 太贵了 It costs an arm and a leg
+159. 咋们各让一步 Meet me halfway
+160. 真会讲价 Nice haggle
 161. <++>
 162. <++>
 163. <++>
