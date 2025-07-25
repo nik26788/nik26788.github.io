@@ -180,16 +180,16 @@ TODO
 158. 太贵了 It costs an arm and a leg
 159. 咋们各让一步 Meet me halfway
 160. 真会讲价 Nice haggle
-161. <++>
-162. <++>
-163. <++>
-164. <++>
-165. <++>
-166. <++>
-167. <++>
-168. <++>
-169. <++>
-170. <++>
+161. 超值 what a deal
+162. 还有吗 就这些吗 Is that all?
+163. 就这些 That's all I need
+164. That's all
+165. 不用找了(零钱) Keep the change
+166. 你来决定 It's up to you / It's your call
+167. 该你决定了 The ball's in your court
+168. 我也是 我跟你一样 That makes two of us
+169. 我也有同感 在俩都有这个感觉 The feeling is mutual
+170. 问题就在这 That's the thing
 171. <++>
 172. <++>
 173. <++>
