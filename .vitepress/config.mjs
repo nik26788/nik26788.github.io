@@ -18,6 +18,7 @@ export default withMermaid({
         text: "Front-End",
         items: [
           { text: "浏览器缓存机制", link: "/frontend/browser-cache" },
+          { text: "观察者模式", link: "/frontend/observer-pattern" },
           {
             text: "从0到1搭建一个vue3前端项目",
             link: "/frontend/create-vue3-project-0-to-1",
