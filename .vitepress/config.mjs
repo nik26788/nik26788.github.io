@@ -27,6 +27,7 @@ export default withMermaid({
             text: "服务端渲染(SSR)",
             link: "/frontend/server-side-rendering",
           },
+          { text: "平行任务控制", link: "/frontend/parallel-task" },
         ],
       },
       {
